@@ -1,0 +1,10 @@
+style
+.img{
+    width: 100px;;
+    height: 180px;
+    text-align: center;
+    color: blue;
+    background-image: url("./images/1h.jpg");
+    font-size: xx-large;
+    font-style: initial;
+}
